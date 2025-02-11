@@ -17,13 +17,13 @@ Use the following Python script to generate a QR code:
 ```python
 import qrcode
 
-generate_image = qrcode.make("https://www.youtube.com/watch?v=BOEWdGDAOYk")
+generate_image = qrcode.make("paste link of web page or any particular thing , here. You want to generate qr code.")
 generate_image.save('image.png')
 ```
 
 ## Output
 
-Running the script will generate a `image.png` file containing the QR code, which can be scanned to open the provided YouTube link.
+Running the script will generate a `image.png` file containing the QR code, which can be scanned to open the provided  link.
 
 ## Repository
 
