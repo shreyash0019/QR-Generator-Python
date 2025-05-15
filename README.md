@@ -29,6 +29,3 @@ Running the script will generate a `image.png` file containing the QR code, whic
 
 Find the complete project on GitHub: [QR-Generator-Python](https://github.com/shreyash0019/QR-Generator-Python.git)
 
-## License
-
-This project is open-source and available under the MIT License.
